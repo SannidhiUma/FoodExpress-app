@@ -88,7 +88,3 @@ FoodExpress is a user-friendly and dynamic online food ordering platform designe
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-Feel free to modify and update the README as needed!
